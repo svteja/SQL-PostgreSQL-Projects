@@ -2,34 +2,34 @@
 
 ### This project explores various business insights from the Netflix dataset through 15 focused analytical questions:
 
-Count the number of Movies vs TV Shows
+1.Count the number of Movies vs TV Shows
 
-Find the most common rating for Movies and TV Shows
+2.Find the most common rating for Movies and TV Shows
 
-Analyze the trend of movie releases over the years
+3.Analyze the trend of movie releases over the years
 
-Find the top 5 countries with the most content on Netflix
+4.Find the top 5 countries with the most content on Netflix
 
-Identify the top 3 longest movies by rating
+5.Identify the top 3 longest movies by rating
 
-Analyze monthly trends of content added in the last 5 years
+6.Analyze monthly trends of content added in the last 5 years
 
-Find all Movies/TV Shows directed by 'Rajiv Chilaka'
+7.Find all Movies/TV Shows directed by 'Rajiv Chilaka'
 
-List all TV Shows with more than 5 seasons
+8.List all TV Shows with more than 5 seasons
 
-Identify the top 10 most popular genres on Netflix
+9.Identify the top 10 most popular genres on Netflix
 
-Find each year and the average share of content released in India
+10.Find each year and the average share of content released in India
 
-List all Movies that are categorized as Documentaries
+11.List all Movies that are categorized as Documentaries
 
-Find pairs of shows directed by the same person
+12.Find pairs of shows directed by the same person
 
-Count how many movies actor 'Salman Khan' appeared in during the last 10 years
+13.Count how many movies actor 'Salman Khan' appeared in during the last 10 years
 
-Find the top 10 actors who appeared in the most Indian titles
+14.Find the top 10 actors who appeared in the most Indian titles
 
-Categorize content based on the presence of keywords like 'kill' or 'violence' in the description
+15.Categorize content based on the presence of keywords like 'kill' or 'violence' in the description
 
 
