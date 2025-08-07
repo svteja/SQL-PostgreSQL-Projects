@@ -44,4 +44,40 @@ Overlapping genre and country fields
 
 PostgreSQL,pgAdmin (or any SQL editor),Excel (for initial inspection)
 
-### [Netflix Platform Analysis ](netflix_project/)
+### 🏥[Hospital Data Analytics Project ](Hospital_Data_Analytics_Project/)
+
+## 📌 Overview
+This project simulates a real-world hospital environment using structured data from multiple tables such as doctors, patients, hospital branches, specialities, and monthly branch revenues. It helps uncover meaningful business insights using intermediate to advanced SQL techniques, useful for analysts and healthcare decision-makers.
+
+## 🧩 Problem Statement
+Hospitals deal with vast data daily — from patient admissions and medical specialties to financial metrics like consultation fees and revenue. Stakeholders need clear, data-driven answers to questions
+ 
+## ✅ Solution
+Using  MY SQL , this project:
+
+Cleans and transforms raw data (e.g., filling missing discharge dates, converting blanks to NULLs, formatting costs).
+
+Applies advanced SQL techniques like:
+
+CTEs, window functions, joins, and date operations
+
+Triggers for audit trails (e.g., patient insertions)
+
+Stored procedures to encapsulate common business logic (e.g., get monthly revenue)
+
+Indexes to improve query performance on patient visits and admissions
+
+Solves 15+ business questions such as:
+
+Rank doctors based on salary by department
+
+Identify patients with the highest out-of-pocket spending
+
+Analyze revenue trends by branch and specialty
+
+Detect which specialties have longer patient stays
+
+## 🧰 Tools Used
+ MySQL Workbench – for SQL scripting and execution
+
+Excel – initial data inspection and formatting
