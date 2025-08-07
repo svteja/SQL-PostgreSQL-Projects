@@ -1,0 +1,21 @@
+﻿Branch_ID,Branch_Name,City,No_of_Doctors,No_of_Patients,Date_of_Opening
+HB001,Mumbai HealthCare Center,Mumbai,51,657,06-09-2019
+HB002,Delhi HealthCare Center,Delhi,33,935,13-02-2018
+HB003,Bengaluru HealthCare Center,Bengaluru,95,912,10-01-2018
+HB004,Hyderabad HealthCare Center,Hyderabad,23,235,15-10-2019
+HB005,Chennai HealthCare Center,Chennai,49,979,17-04-2022
+HB006,Kolkata HealthCare Center,Kolkata,23,457,06-04-2023
+HB007,Pune HealthCare Center,Pune,89,873,28-03-2019
+HB008,Ahmedabad HealthCare Center,Ahmedabad,77,557,24-02-2018
+HB009,Jaipur HealthCare Center,Jaipur,40,924,13-10-2020
+HB010,Lucknow HealthCare Center,Lucknow,55,547,09-02-2019
+HB011,Surat HealthCare Center,Surat,63,274,20-09-2018
+HB012,Bhopal HealthCare Center,Bhopal,68,584,14-10-2020
+HB013,Indore HealthCare Center,Indore,64,533,13-12-2018
+HB014,Chandigarh HealthCare Center,Chandigarh,78,785,31-07-2018
+HB015,Visakhapatnam HealthCare Center,Visakhapatnam,68,221,03-02-2022
+HB016,Nagpur HealthCare Center,Nagpur,57,925,18-08-2022
+HB017,Patna HealthCare Center,Patna,44,139,13-06-2018
+HB018,Vadodara HealthCare Center,Vadodara,49,541,13-01-2018
+HB019,Coimbatore HealthCare Center,Coimbatore,49,254,12-01-2021
+HB020,Thane HealthCare Center,Thane,55,428,06-02-2023

@@ -1,0 +1,12 @@
+﻿Specialty_ID,Specialty_Name,Description,Avg_Consultation_Fee,Avg_Treatment_Cost,Department_Head
+SP001,Cardiology,Heart-related diagnosis and treatments,1200,18000,Dr. Sameer Kulkarni
+SP002,Neurology,Brain and nervous system disorders,1100,20000,Dr. Neha Sharma
+SP003,Orthopedics,Musculoskeletal system treatments,900,15000,Dr. Arjun Patel
+SP004,Pediatrics,Child health and wellness,600,10000,Dr. Lakshmi Rao
+SP005,General Medicine,Primary health care,500,8000,Dr. Rajiv Sinha
+SP006,Dermatology,Skin and hair conditions,700,9500,Dr. Mansi Kapoor
+SP007,Gynecology,Women's reproductive health,850,12000,Dr. Priya Mehra
+SP008,Psychiatry,Mental health and behavioral disorders,1000,11000,Dr. Vinay Joshi
+SP009,ENT,"Ear, nose, and throat care",600,9500,Dr. Meenakshi Reddy
+SP010,Urology,Urinary and male reproductive systems,950,13000,Dr. Aditya Verma
+SP011,Oncology,Cancer diagnosis and treatment,1500,20000,Dr. Anjali Deshmukh
