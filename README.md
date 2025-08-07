@@ -42,8 +42,4 @@ Overlapping genre and country fields
 
 🧰 Tools Used:
 
-PostgreSQL
-
-pgAdmin (or any SQL editor)
-
-Excel (for initial inspection)
+PostgreSQL,pgAdmin (or any SQL editor),Excel (for initial inspection)
