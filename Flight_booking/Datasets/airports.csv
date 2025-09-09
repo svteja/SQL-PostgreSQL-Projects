@@ -1,0 +1,31 @@
+airport_id,airport_name,city,state,country,iata_code,no_of_runways,capacity
+1,Port Davidstad International Airport,Kolkata,Karnataka,India,FE6,5,25311
+2,Robinsontown International Airport,Bengaluru,Telangana,India,PG3,3,33091
+3,Allisonton International Airport,Bengaluru,Telangana,India,TD4,5,23408
+4,Hollyton International Airport,Kolkata,Delhi,India,SK9,1,42311
+5,Davidmouth International Airport,Hyderabad,West Bengal,India,JT6,4,10953
+6,East Alex International Airport,Mumbai,Telangana,India,XA5,3,20279
+7,Port Corey International Airport,Delhi,Maharashtra,India,HB6,5,31767
+8,South Tara International Airport,Delhi,Telangana,India,SP4,3,23558
+9,New Blaketon International Airport,Kolkata,Tamil Nadu,India,KX1,3,21954
+10,Sarahton International Airport,Kolkata,Maharashtra,India,DY9,2,8424
+11,West Davidhaven International Airport,Mumbai,Karnataka,India,II7,1,7362
+12,West Alicia International Airport,Bengaluru,West Bengal,India,JN7,3,23772
+13,Audreyville International Airport,Mumbai,Delhi,India,PA3,4,16839
+14,New Melindaland International Airport,Mumbai,Tamil Nadu,India,GX2,2,5538
+15,Melissatown International Airport,Chennai,Tamil Nadu,India,NV8,5,47730
+16,West Marcus International Airport,Chennai,Delhi,India,ES8,5,7644
+17,East Lindachester International Airport,Bengaluru,Telangana,India,MI7,4,24778
+18,Andreatown International Airport,Hyderabad,Delhi,India,XP1,4,33557
+19,Barryland International Airport,Delhi,Delhi,India,PH7,1,32488
+20,East Victorchester International Airport,Chennai,Telangana,India,EQ7,4,5350
+21,South Jamesburgh International Airport,Bengaluru,Karnataka,India,QG1,5,1069
+22,Scottview International Airport,Kolkata,West Bengal,India,LN1,1,32174
+23,Port Michael International Airport,Mumbai,Delhi,India,RY4,4,26153
+24,Wandabury International Airport,Chennai,Telangana,India,IS0,4,8169
+25,North Jennifer International Airport,Mumbai,Tamil Nadu,India,VR1,5,5084
+26,West Hannah International Airport,Mumbai,Delhi,India,OQ9,1,14068
+27,Michaelville International Airport,Chennai,West Bengal,India,RY7,2,28026
+28,Burkeberg International Airport,Bengaluru,Delhi,India,BQ7,2,14138
+29,North Felicia International Airport,Kolkata,Karnataka,India,UI1,1,9320
+30,Davidview International Airport,Delhi,Karnataka,India,NF1,4,2506
